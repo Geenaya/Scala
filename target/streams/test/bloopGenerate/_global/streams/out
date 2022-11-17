@@ -1,0 +1,4 @@
+[debug] [scala-practice-test] Classpath dependencies List()
+[debug] [scala-practice-test] Dependencies from configurations List(scala-practice)
+[debug] Bloop wrote the configuration of project 'scala-practice-test' to 'C:\Users\goo06\Documents\projects\scala\scala-practice\.bloop\scala-practice-test.json'
+[success] Generated .bloop\scala-practice-test.json
